@@ -2,6 +2,9 @@
   <br>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
   <br>
+  <img src="https://img.shields.io/badge/VERIFIED_DEVELOPER-EMIRLQQ1-00fbff?style=flat-square&logo=github&logoColor=white" alt="Verified">
+  <img src="https://img.shields.io/badge/OFFICIAL_PRODUCT-EMIRNETWORK-00ff88?style=flat-square&logo=checkmarx&logoColor=white" alt="Official">
+  <br>
   👑 EMIRNETWORK: THE ULTIMATE SOVEREIGN SUITE 👑
   <br>
   <sub><i>Integrated Cyber Intelligence, Advanced OSINT & Network Diagnostics Ecosystem</i></sub>
@@ -21,7 +24,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/LANGUAGE-PYTHON_3.13-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/INTERFACE-TERMINAL_UI-white?style=for-the-badge&logo=powershell&logoColor=black" alt="TUI">
+  <img src="https://img.shields.io/badge/AUTHENTICITY-GUARANTEED-white?style=for-the-badge&logo=comodo&logoColor=black" alt="Auth">
   <img src="https://img.shields.io/badge/LICENSE-MIT-red?style=for-the-badge&logo=pypy&logoColor=white" alt="License">
 </p>
 
@@ -61,9 +64,6 @@ Ağ tabanlı diagnostik araçları, doğaları gereği düşük seviyeli ağ sok
 | **Heuristic Engines** | `Elastic`, `SecureAge` | `FALSE POSITIVE` |
 | **Major Engines** | `Kaspersky`, `Bitdefender`, `Microsoft` | `CLEAN` |
 
-> [!IMPORTANT]
-> Yazılımın tüm fonksiyonlarını kısıtlama olmadan kullanabilmek için "Yönetici" yetkileriyle başlatılması ve güvenlik duvarı istisnalarına eklenmesi teknik bir zorunluluktur.
-
 ---
 
 ## 🚀 Core Operational Modules | Gelişmiş Özellikler
@@ -72,11 +72,11 @@ Ağ tabanlı diagnostik araçları, doğaları gereği düşük seviyeli ağ sok
 | :--- | :--- | :--- |
 | **01** | **Port Scanner** | High-speed multithreaded scan engine. 200+ eşzamanlı thread ile milisaniyeler bazında servis tanımlama. |
 | **02** | **Geo-IP & Whois** | Domain intelligence via external APIs. Global ISP veritabanı eşleşmesi ve sahiplik analizi. |
-| **03** | **Traffic Simulator** | Live packet-flow simulation. Ağ yükünü ve veri akışını gerçek zamanlı simüle eden görsel motor. |
-| **04** | **System Metrics** | Real-time CPU / RAM / Disk / Net bars. Yüksek çözünürlüklü dinamik bar grafikleri ile kaynak izleme. |
-| **05** | **DNS Enumeration** | Recursive record discovery (A, AAAA, MX, NS, TXT). Domain altyapısını haritalandıran analiz birimi. |
+| **03** | **Traffic Simulator** | Live packet-flow simulation. Ağ yükünü ve veri akışını simüle eden görsel motor. |
+| **04** | **System Metrics** | Real-time CPU / RAM / Disk / Net bars. Dinamik bar grafikleri ile kaynak izleme. |
+| **05** | **DNS Enumeration** | Recursive record discovery (A, AAAA, MX, NS). Domain altyapısını haritalandıran analiz birimi. |
 | **06** | **Subnet Calculator** | IPv4 CIDR computation. IP aralıkları ve alt ağ maskeleri için mantıksal hesaplama motoru. |
-| **07** | **Hash Tools** | Generate & verify MD5/SHA hashes. Forensic düzeyde veri bütünlüğü ve checksum doğrulaması. |
+| **07** | **Hash Tools** | Generate & verify MD5/SHA hashes. Forensic düzeyde veri bütünlüğü doğrulaması. |
 | **08** | **Network Speed Test** | Latency and jitter analysis. Ağ kararlılığını ölçen milisaniye hassasiyetinde test protokolü. |
 
 ---
@@ -91,25 +91,19 @@ Ağ tabanlı diagnostik araçları, doğaları gereği düşük seviyeli ağ sok
 ---
 
 ## 🗺 Roadmap & Future Enhancements
-Projenin gelecek sürümlerinde planlanan geliştirmeler:
-
 - [ ] **v1.1:** Web-based Dashboard (Uzaktan İzleme Modülü)
 - [ ] **v1.2:** Advanced Brute Force Analysis UI
-- [ ] **v1.5:** Multi-Language Support & Global CDN Integration
 - [ ] **v2.0:** AI-Powered Network Anomaly Detection
 
 ---
 
 ## 📜 Official Product Certification
-Bu yazılım, **EmirLQQ1** tarafından geliştirilmiş ve **EmirNetwork Intelligence Group** bünyesinde tescillenmiştir. Tasarım, kodlama ve güvenlik standartları, "Sovereign Elite Edition" normlarına tam uyum sağlar.
-
-> [!TIP]
-> **Digital Signature:** `[ VERIFIED-ORIGINAL-EMIRNETWORK-2026 ]` - Kimlik doğrulama için [**CERTIFICATE.md**](./CERTIFICATE.md) dosyasını inceleyiniz.
+Bu yazılım, **EmirLQQ1** tarafından geliştirilmiş ve **EmirNetwork Intelligence Group** bünyesinde tescillenmiştir. Tasarım ve güvenlik standartları, "Sovereign Elite Edition" normlarına tam uyum sağlar.
 
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="85%">
   <br>
-  <b>Mastermind: EMIRLQQ1</b><br>
-  <i>Powered by MoneyApprovEd Strategic Intelligence Platform</i>
+  <b>Project Lead: EMIRLQQ1</b><br>
+  <i>Verified via EmirNetwork Intelligence Platform</i>
 </p>
