@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/OFFICIAL_PRODUCT-EMIRNETWORK-00ff88?style=flat-square&logo=checkmarx&logoColor=white" alt="Official">
     <img src="https://img.shields.io/badge/SECURITY_AUDIT-PASSED-gold?style=flat-square&logo=guardant&logoColor=white" alt="Audit">
   </p>
-  👑 EMIRNETWORK: THE ULTIMATE SOVEREIGN SUITE 👑
+  👑 EMIRNETWORK: DIAGNOSTIC DEVELOPMENT TOOLKIT 👑
   <br>
   <sub><i>Advanced Windows-Based Network Intelligence & Cyber Forensic Ecosystem</i></sub>
   <br>
