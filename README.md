@@ -53,7 +53,7 @@ Optimize edilmiş, tek tıkla çalışan (portable) yürütülebilir dosyaya aş
 
 <p align="center">
   <a href="https://github.com/MoneyApprovEd/em-rnetwork-em-rlqq1/releases/download/v1.0.0/EmirNetwork.exe">
-    <img src="https://img.shields.io/badge/DOWNLOAD-EMIRNETWORK.EXE-00fbff?style=for-the-badge&logo=virtualbox&logoColor=black" alt="https://github.com/MoneyApprovEd/em-rnetwork-em-rlqq1/releases/download/v1.0.0/EmirNetworkTools.exe">
+    <img src="https://img.shields.io/badge/DOWNLOAD-EMIRNETWORK.EXE-00fbff?style=for-the-badge&logo=virtualbox&logoColor=black" alt="https://github.com/MoneyApprovEd/em-rnetwork-em-rlqq1/releases/tag/v1.0.0">
   </a>
 </p>
 
