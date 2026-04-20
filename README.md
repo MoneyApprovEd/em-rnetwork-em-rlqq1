@@ -58,7 +58,7 @@ Optimize edilmiş, tek tıkla çalışan (portable) yürütülebilir dosyaya aş
 </p>
 
 ### 🛡️ VirusTotal & Heuristic Integrity Report
-Ağ diagnostik araçları, doğaları gereği düşük seviyeli ağ soketlerine (Raw Sockets) erişim sağlar. Bu durum, bazı modern antivirüs motorlarının yapay zeka tabanlı analizlerinde "Heuristic Alert" vermesine neden olabilir.
+Ağ diagnostik araçları, doğaları gereği düşük seviyeli ağ soketlerine (Raw Sockets) erişim sağlar. Bu durum, bazı modern antivirüs motorlarının  analizlerinde "Heuristic Alert" vermesine neden olabilir.
 
 | Analysis Engine | Status | Security Verdict |
 | :--- | :--- | :--- |
